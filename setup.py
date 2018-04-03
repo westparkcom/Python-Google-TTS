@@ -1,0 +1,16 @@
+from distutils.core import setup
+
+setup(
+    name='googletts',
+    packages=['googletts'],
+    install_requires=[
+    ],
+    version='0.1.0',
+    description='Python library to access Google Cloud Text to Speech API',
+    author='jpattWPC',
+    author_email='jpatten@westparkcom.net',
+    url='https://github.com/jpattWPC/Python-Google-TTS.git',
+    download_url='https://github.com/jpattWPC/Python-Google-TTS.git/tarball/master',
+    keywords=['google', 'cloud', 'text to speech'],
+    classifiers=[],
+)
