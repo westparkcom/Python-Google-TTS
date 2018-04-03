@@ -260,7 +260,7 @@ class Translator(object):
             }
         body = """{{
             'input' : {{
-                'text' : '{}'
+                'text' : "{}"
             }},
             'voice' : {{
                 'languageCode' : '{}',
