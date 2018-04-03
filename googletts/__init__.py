@@ -180,6 +180,7 @@ class Translator(object):
                 "en-GB-Standard-D"
                 ],
             "en-US" : [
+                "en-US-Standard-B",
                 "en-US-Standard-C",
                 "en-US-Standard-D",
                 "en-US-Standard-E",
