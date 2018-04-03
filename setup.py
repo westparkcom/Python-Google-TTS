@@ -5,7 +5,7 @@ setup(
     packages=['googletts'],
     install_requires=[
     ],
-    version='0.1.1',
+    version='0.1.2',
     description='Python library to access Google Cloud Text to Speech API',
     author='jpattWPC',
     author_email='jpatten@westparkcom.net',
