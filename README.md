@@ -4,7 +4,7 @@ Google Cloud Text to Speech library for Python
 # Installation
 To install using pip, run the following command:
 
-    pip install git+https://github.com/jpattWPC/Python-Google-TTS.git
+    pip install git+https://github.com/westparkcom/Python-Google-TTS.git
 
 # API Key
 To generate an API key follow the [Setting up API keys](https://support.google.com/cloud/answer/6158862) help document. **NOTE: ENSURE YOU HAVE [PROPERLY RESTRICTED ACCESS](https://support.google.com/cloud/answer/6310037?hl=en) VIA THE API KEY!**
