@@ -139,7 +139,7 @@ class Translator(object):
                 )
         try:
             payload = json.loads(
-                resp.read()
+                resp.read().decode('utf-8')
                 )
         except Exception as e:
             raise GeneralException(
