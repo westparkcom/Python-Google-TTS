@@ -219,6 +219,11 @@ class Translator(object):
                 ],
             "tr-TR" : [
                 "tr-TR-Standard-A"
+                ],
+            "cmn-TW" : [
+                "cmn-TW-Wavenet-A-Alpha",
+                "cmn-TW-Wavenet-B-Alpha",
+                "cmn-TW-Wavenet-C-Alpha"
                 ]
             }
         if not text:
